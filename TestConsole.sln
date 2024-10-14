@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsole", "TestConsole\TestConsole.csproj", "{27957116-719A-40DD-BD6C-BBB6B55945C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTWEBAPI", "TESTWEBAPI\TESTWEBAPI.csproj", "{1B0F6EDD-F73D-4340-BE40-7B553BCC14D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27957116-719A-40DD-BD6C-BBB6B55945C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27957116-719A-40DD-BD6C-BBB6B55945C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27957116-719A-40DD-BD6C-BBB6B55945C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27957116-719A-40DD-BD6C-BBB6B55945C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0F6EDD-F73D-4340-BE40-7B553BCC14D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0F6EDD-F73D-4340-BE40-7B553BCC14D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0F6EDD-F73D-4340-BE40-7B553BCC14D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0F6EDD-F73D-4340-BE40-7B553BCC14D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49C4A60-C069-43EB-97C7-CBF739E9CCD9}
+	EndGlobalSection
+EndGlobal
